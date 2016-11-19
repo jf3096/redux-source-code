@@ -1,0 +1,15 @@
+{
+  "name": "redux-source-code",
+  "version": "1.0.0",
+  "description": "redux 源码研读",
+  "main": "index.js",
+  "keywords": [
+    "redux",
+    "redux 源码",
+    "redux source code",
+    "redux study",
+    "redux learning"
+  ],
+  "author": "Ailun She",
+  "license": "MIT"
+}
